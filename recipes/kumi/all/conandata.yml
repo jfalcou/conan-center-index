@@ -1,4 +1,7 @@
 sources:
+  "5.0":
+    url: "https://github.com/jfalcou/kumi/archive/v5.0.tar.gz"
+    sha256: "175569a39837988b6349f2bc7b7bab757c09d29e9503e20e188c9afa1c88e474"
   "4.0":
     url: "https://github.com/jfalcou/kumi/archive/v4.0.tar.gz"
     sha256: "f788ee60b814a07d2b2148dd86b5153261b582ac5a248905cbf3e19423a0f7cd"
